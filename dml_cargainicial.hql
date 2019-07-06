@@ -1,5 +1,3 @@
--- talba hql de ventas --
-Creación de tabla HIVE ...
+dwqdqw
 
-create table external ventas
-
+sdfsdf
